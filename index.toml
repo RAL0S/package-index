@@ -407,3 +407,11 @@ version = "1.4"
 repo_url = "https://github.com/Ral0s/flashprog"
 repo_tag = "v1.4"
 license = "GPL-2.0"
+
+[packages.whadclient]
+name = "whad-client"
+description = "WHAD Client: Lightweight agent for WHAD security framework"
+version = "1.2.8"
+repo_url = "https://github.com/whad-team/whad-client"
+repo_tag = "v1.2.8"
+license = "MIT"
